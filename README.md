@@ -2,8 +2,8 @@
 This is a public version of CSI2372's course. This is a public version that is different than the private repo.
 
 # Author
-[Fengwei Zhang](https://github.com/zhang96)
-[Huairuo Yang](https://github.com/yangisee)
+- [Fengwei Zhang](https://github.com/zhang96)
+- [Huairuo Yang](https://github.com/yangisee)
 
 # License
 MIT, Except for academic use, which is completely prohibited.
